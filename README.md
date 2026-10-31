@@ -117,6 +117,3 @@ Start the services in the following order so configuration and service discovery
 * **Email:** shubham57228@gmail.com
 * **GitHub:** https://github.com/shubhamkeluskar
 
-* **Role:** Software Engineer (Java | Spring Boot | Microservices | React)
-* **Email:** shubham57228@gmail.com
-* **GitHub:** https://github.com/shubhamkeluskar
